@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "French",
+    "picture": "images/French.png"
+  },
+  {
+    "id": 1,
+    "name": "Italian",
+    "picture": "images/Italian.png"
+  },
+  {
+    "id": 2,
+    "name": "Japanese",
+    "picture": "images/Japanese.png"
+  },
+  {
+    "id": 3,
+    "name": "Mexican",
+    "picture": "images/Mexican.png"
+  }
+]

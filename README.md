@@ -1,15 +1,15 @@
-# 🚀 UB Hacking Spring 2022 Team Repository 🚀
-  Hello and Welcome to UB Hacking Spring 2022! This is your team's repository which you will be using for your project. 
-  
-### To add members to your team, please follow the steps below:
-  1. Make sure they click on the invitation link shared on the UBHacking Discord which will take them to the list of all the teams created.
-  2. DO NOT CREATE A NEW TEAM IF YOUR TEAM HAS ALREADY BEEN CREATED.
-  3. Ask your member(s) to look for this team in the list of teams that have been created.
-  4. Once your members find this team, click on the join button and they will be redirected to this repository, as shown below: 
+# **DeHungr**
 
-  ![Github](https://user-images.githubusercontent.com/73315015/161368240-3bf5f7cc-15ae-436e-ba9d-cbd206770635.gif)
+Around the world, more than enough food is produced to feed the global population—but as many as 811 million people still go hungry. After steadily declining for a decade, world hunger is on the rise, affecting 9.9 percent of people globally. From 2019 to 2020, the number of undernourished people grew by as many as 161 million, a crisis driven largely by conflict, climate change, and the COVID-19 pandemic
 
-Once all your team members have been added to this repository, you will be able to clone this repository, commit and push code for your project. 
+Our projects provides a decentralised solution to this problem which allows the user to donate dietary items in exchange of Fungible Tokens by making a transaction on blockchain.
 
-### Reminder: PLEASE MAKE SURE TO SUBMIT YOUR GITHUB LINK TO YOUR DEVPOST SUBMISSION. 
+We have built it using Blockchain technology, truffle suite, ganache and frontend tech.
 
+The main problem we ran into was metamask registration transaction and Integration of the smart contract created using Solidity language with the UI using web3.js
+
+We managed to successfully implement our project using Blockchain Technology and we are mostly proud of being able to address the much needed social cause.
+
+Apart from getting to learn the tech side we learnt how to build a socially scalable problem product within a stipulated period of time.
+
+This can be deployed on the main net and used across similar social cases for the community welfare.
