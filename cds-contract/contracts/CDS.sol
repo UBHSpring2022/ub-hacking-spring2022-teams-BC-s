@@ -84,7 +84,7 @@ contract CDS is IERC20 {
         if(rating > 0){
            fb_count[msg.sender]++;
            _approve(chairperson, msg.sender, 20);
-           transferFrom(chairperson,msg.sender,10);
+           transferFrom(chairperson,msg.sender,10*rating);
         }
     }
     
