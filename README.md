@@ -1,3 +1,5 @@
+# **DeHungr**
+
 Around the world, more than enough food is produced to feed the global population—but as many as 811 million people still go hungry. After steadily declining for a decade, world hunger is on the rise, affecting 9.9 percent of people globally. From 2019 to 2020, the number of undernourished people grew by as many as 161 million, a crisis driven largely by conflict, climate change, and the COVID-19 pandemic
 
 Our projects provides a decentralised solution to this problem which allows the user to donate dietary items in exchange of Fungible Tokens by making a transaction on blockchain.
